@@ -32,8 +32,8 @@ You can reach me out on:
 | Issue                                                       | Contest                 | Platform  | Contest Dates | My Report                                                                    | Selected Report                                                     |
 | :---------------------------------------------------------- | :---------------------- | :-------- | :------------ | :--------------------------------------------------------------------------- | :------------------------------------------------------------------ |
 | We would not be able to incentivize the liquidators.        | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/857) | [View](https://www.codehawks.com/finding/clm81m6ub01jtw9rukyr1h50o) |
-| Incompatability with deflationary / fee-on-transfer tokens. | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/686)                  |
-| Fee contract executes swap without slippage protection      | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/677)                  |
+| Incompatability with deflationary / fee-on-transfer tokens. | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/686)                  | [View](https://www.codehawks.com/finding/cllv3ixri0013w9blpjv3sqgl) |
+| Fee contract executes swap without slippage protection      | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/677)                  | [View](https://www.codehawks.com/finding/cllv3ilut0007w9blijeon1a0) |
 
 ## Medium Findings
 

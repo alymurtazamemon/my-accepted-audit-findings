@@ -1,5 +1,13 @@
 # My Audit Portfolio of All Valid Accepted Findings
 
+## Table of Content
+
+-   [About Me](#about-me-alymurtazamemon)
+-   [High Findings](#high-findings)
+-   [Medium Findings](#medium-findings)
+-   [Low & Informational Findings Reports](#low--informational-findings-reports)
+-   [Gas Issues Findings Reports](#gas-issues-findings-reports)
+
 ### About Me (`alymurtazamemon`)
 
 I am an Independent Smart Contracts Security Researcher at Code4rena and CodeHawks.

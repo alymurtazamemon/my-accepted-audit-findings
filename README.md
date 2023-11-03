@@ -37,12 +37,13 @@ You can reach me out on:
 
 ## Medium Findings
 
-| Issue                                                        | Contest                 | Platform  | Contest Dates | My Report                                                                    | Selected Report                                                     |
-| :----------------------------------------------------------- | :---------------------- | :-------- | :------------ | :--------------------------------------------------------------------------- | :------------------------------------------------------------------ |
-| Users can mint more DSC than deposited collateral            | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/793) | [View](https://www.codehawks.com/finding/clm81mdhd01kdw9rurvmzq5r0) |
-| Broken `getUsdValue` function if considering all price feeds | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/390) | [View](https://www.codehawks.com/finding/clm81mav001k5w9ru9rgvvghn) |
-| DOS - Price feeds' Heartbeat is hardcoded                    | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/387) | [View](https://www.codehawks.com/finding/clm81m94q01k1w9rux5xf489f) |
-| Chainlink price staleness checks not complete                | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/324) | [View](https://www.codehawks.com/finding/clm81m9vz01k3w9ruawh7z45k) |
+| Issue                                                        | Contest                 | Platform  | Contest Dates | My Report                                                                    | Selected Report                                                              |
+| :----------------------------------------------------------- | :---------------------- | :-------- | :------------ | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| Incompatability with deflationary / fee-on-transfer tokens.  | Allo V2                 | Sherlock  | Sep 2023      | [View](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/913) | [View](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/547) |
+| Users can mint more DSC than deposited collateral            | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/793) | [View](https://www.codehawks.com/finding/clm81mdhd01kdw9rurvmzq5r0)          |
+| Broken `getUsdValue` function if considering all price feeds | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/390) | [View](https://www.codehawks.com/finding/clm81mav001k5w9ru9rgvvghn)          |
+| DOS - Price feeds' Heartbeat is hardcoded                    | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/387) | [View](https://www.codehawks.com/finding/clm81m94q01k1w9rux5xf489f)          |
+| Chainlink price staleness checks not complete                | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/324) | [View](https://www.codehawks.com/finding/clm81m9vz01k3w9ruawh7z45k)          |
 
 ## Low & Informational Findings Reports
 

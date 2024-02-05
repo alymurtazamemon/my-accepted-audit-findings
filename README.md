@@ -50,9 +50,11 @@ You can reach me out on:
 | Contest  | Platform  | Contest Dates |                                                                                                                                    Report |
 | :------- | :-------- | :------------ | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | BeedleFi | CodeHawks | Jul—Aug 2023  | [View](https://github.com/alymurtazamemon/my-low-and-informational-findings-reports/blob/main/beedle-july-23-quality-assurence-report.md) |
+| PoolTogether | Code4rena | Jul 2023 | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/code4rena/2023/pool-together-july-23/pool-together-july-23-quality-assurence-report.md) |
 
 ## Gas Issues Findings Reports
 
 | Contest  | Platform  | Contest Dates |                                                                                                           Report |
 | :------- | :-------- | :------------ | ---------------------------------------------------------------------------------------------------------------: |
 | BeedleFi | CodeHawks | Jul—Aug 2023  | [View](https://github.com/alymurtazamemon/my-gas-issues-findings-reports/blob/main/beedle-july-23-gas-report.md) |
+| PoolTogether | Code4rena | Jul 2023 | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/code4rena/2023/pool-together-july-23/pool-together-july-23-gas-report.md) |

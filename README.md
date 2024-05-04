@@ -2,11 +2,16 @@
 
 ## Table of Content
 
--   [About Me](#about-me-alymurtazamemon)
--   [High Findings](#high-findings)
--   [Medium Findings](#medium-findings)
--   [Low & Informational Findings Reports](#low--informational-findings-reports)
--   [Gas Issues Findings Reports](#gas-issues-findings-reports)
+- [My Audit Portfolio of All Valid Accepted Findings](#my-audit-portfolio-of-all-valid-accepted-findings)
+  - [Table of Content](#table-of-content)
+    - [About Me (`alymurtazamemon`)](#about-me-alymurtazamemon)
+  - [2023](#2023)
+    - [Q3 Contests](#q3-contests)
+      - [Allo V2](#allo-v2)
+      - [Beedle - Oracle free perpetual lending](#beedle---oracle-free-perpetual-lending)
+      - [Foundry DeFi Stablecoin](#foundry-defi-stablecoin)
+      - [Amphora Protocol - A borrowing and lending protocol.](#amphora-protocol---a-borrowing-and-lending-protocol)
+      - [PoolTogether - The permissionless protocol for saving and winning.](#pooltogether---the-permissionless-protocol-for-saving-and-winning)
 
 ### About Me (`alymurtazamemon`)
 
@@ -27,34 +32,55 @@ You can reach me out on:
 -   [LinkedIn](https://www.linkedin.com/in/alymurtazamemon/)
 -   [Discord](https://discord.com/users/alymurtazamemon#2063)
 
-## High Findings
+## 2023
 
-| Issue                                                       | Contest                 | Platform  | Contest Dates | My Report                                                                    | Selected Report                                                     |
-| :---------------------------------------------------------- | :---------------------- | :-------- | :------------ | :--------------------------------------------------------------------------- | :------------------------------------------------------------------ |
-| We would not be able to incentivize the liquidators.        | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/857) | [View](https://www.codehawks.com/finding/clm81m6ub01jtw9rukyr1h50o) |
-| Incompatability with deflationary / fee-on-transfer tokens. | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/686)                  | [View](https://www.codehawks.com/finding/cllv3ixri0013w9blpjv3sqgl) |
-| Fee contract executes swap without slippage protection      | BeedleFi                | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-beedle/issues/677)                  | [View](https://www.codehawks.com/finding/cllv3ilut0007w9blijeon1a0) |
+### Q3 Contests
 
-## Medium Findings
+#### [Allo V2](https://audits.sherlock.xyz/contests/109)
 
-| Issue                                                        | Contest                 | Platform  | Contest Dates | My Report                                                                    | Selected Report                                                              |
-| :----------------------------------------------------------- | :---------------------- | :-------- | :------------ | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| Incompatability with deflationary / fee-on-transfer tokens.  | Allo V2                 | Sherlock  | Sep 2023      | [View](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/913) | [View](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/547) |
-| Users can mint more DSC than deposited collateral            | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/793) | [View](https://www.codehawks.com/finding/clm81mdhd01kdw9rurvmzq5r0)          |
-| Broken `getUsdValue` function if considering all price feeds | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/390) | [View](https://www.codehawks.com/finding/clm81mav001k5w9ru9rgvvghn)          |
-| DOS - Price feeds' Heartbeat is hardcoded                    | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/387) | [View](https://www.codehawks.com/finding/clm81m94q01k1w9rux5xf489f)          |
-| Chainlink price staleness checks not complete                | Foundry DeFi Stablecoin | CodeHawks | Jul—Aug 2023  | [View](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/324) | [View](https://www.codehawks.com/finding/clm81m9vz01k3w9ruawh7z45k)          |
+- Contest Duration: 10 DAYS
+- Dates: SEPT 11 2023 -> SEPT 21 2023
+- Platform: [Sherlock](https://www.sherlock.xyz/)
+- Findings:
+  - [M-01: Incompatibility with deflationary / fee-on-transfer tokens](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/913)
 
-## Low & Informational Findings Reports
+#### [Beedle - Oracle free perpetual lending](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
 
-| Contest  | Platform  | Contest Dates |                                                                                                                                    Report |
-| :------- | :-------- | :------------ | ----------------------------------------------------------------------------------------------------------------------------------------: |
-| BeedleFi | CodeHawks | Jul—Aug 2023  | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/codehawks/2023/beedle-july-23/beedle-july-23-quality-assurence-report.md) |
-| PoolTogether | Code4rena | Jul 2023 | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/code4rena/2023/pool-together-july-23/pool-together-july-23-quality-assurence-report.md) |
+- Contest Duration: 2 Weeks
+- Dates: JUL 24 2023 -> AUG 07 2023
+- Platform: [CodeHawks](https://www.codehawks.com/)
+- Findings:
+  - [H-01: Fee contract executes swap without slippage protection.](https://github.com/Cyfrin/2023-07-beedle/issues/677)
+  - [M-01: Incompatability with deflationary / fee-on-transfer tokens.](https://github.com/Cyfrin/2023-07-beedle/issues/686)
+  - [QA (Quality Assurance) Report](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/codehawks/2023/beedle-july-23/beedle-july-23-quality-assurence-report.md)
+  - [Gas Optimization Report](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/codehawks/2023/beedle-july-23/beedle-july-23-gas-report.md)
 
-## Gas Issues Findings Reports
+#### [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
 
-| Contest  | Platform  | Contest Dates |                                                                                                           Report |
-| :------- | :-------- | :------------ | ---------------------------------------------------------------------------------------------------------------: |
-| BeedleFi | CodeHawks | Jul—Aug 2023  | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/codehawks/2023/beedle-july-23/beedle-july-23-gas-report.md) |
-| PoolTogether | Code4rena | Jul 2023 | [View](https://github.com/alymurtazamemon/audit-findings-storage/blob/main/code4rena/2023/pool-together-july-23/pool-together-july-23-gas-report.md) |
+- Contest Duration: 2 Weeks
+- Dates: JUL 24 2023 -> AUG 05 2023
+- Platform: [CodeHawks](https://www.codehawks.com/)
+- Findings:
+  - [H-01 (upgraded M -> H): We would not be able to incentivize the liquidators.](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/857)
+  - [M-01 (downgraded H -> M): Broken getUsdValue function if considering all price feeds](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/390)
+  - [M-02 (downgraded H -> M): DOS - Price feeds' Heartbeat is hardcoded](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/387)
+  - [M-03: Users can mint more DSC than deposited collateral](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/793)
+  - [M-04: Chainlink price staleness checks not complete](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/324)
+
+#### [Amphora Protocol - A borrowing and lending protocol.](https://code4rena.com/reports/2023-07-amphora)
+
+- Contest Duration: 1 Week
+- Dates: JUL 22 2023 -> JUL 27 2023
+- Platform: [Code4rena](https://code4rena.com/)
+- Findings:
+  - Grade-A - [QA (Quality Assurance) Report](https://github.com/code-423n4/2023-07-amphora-findings/issues/271)
+  - Grade-B - [Gas Optimization Report](https://github.com/code-423n4/2023-07-amphora-findings/issues/412)
+
+#### [PoolTogether - The permissionless protocol for saving and winning.](https://code4rena.com/reports/2023-07-pooltogether)
+
+- Contest Duration: 1 Week
+- Dates: JUL 08 2023 -> JUL 15 2023
+- Platform: [Code4rena](https://code4rena.com/)
+- Findings:
+  - Grade-A - [QA (Quality Assurance) Report](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/410)
+  - Grade-A - [Gas Optimization Report](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/401)
